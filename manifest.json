@@ -76,15 +76,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "articles/intro_2.md",
       "output": {
         ".html": {
           "relative_path": "articles/intro_2.html",
-          "hash": "YAuc3t2JnLQuQoEAxjZUjI/LfssBGtQ61EBkLYNDdb4="
+          "hash": "56jKfMRIiqM4fhkWR+/Xl9bZkhEGCoJxDroSmXBAOK8="
         }
       },
       "is_incremental": true,
@@ -108,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "vg8PbaAIG/KXYOFUNt/xD6afGpU6eVZsHpDY0/UcHAc="
+          "hash": "nO24KIO3ByoGgL4HwoVrNmLq3y7XoekKnp3LVL/FISA="
         }
       },
       "is_incremental": false,
